@@ -12,7 +12,7 @@ void main() {
         body: Center(
           child: Image(
             image: NetworkImage(
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzr0R9ziCVWDGq7tD8jO-FhKrY_KxfqpxW1g&usqp=CAU'),
+                'https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg'),
           ),
         ),
       ),
